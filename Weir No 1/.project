@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Weir No 1</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/Item.java</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/safe/weirno1/trunk/src/Item.java</locationURI>
+		</link>
+		<link>
+			<name>src/ParserDemo.java</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/safe/weirno1/trunk/src/ParserDemo.java</locationURI>
+		</link>
+		<link>
+			<name>src/StaXParser.java</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/safe/weirno1/trunk/src/StaXParser.java</locationURI>
+		</link>
+		<link>
+			<name>src/TickerDemo.java</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/safe/weirno1/trunk/src/TickerDemo.java</locationURI>
+		</link>
+		<link>
+			<name>src/edu</name>
+			<type>2</type>
+			<locationURI>PARENT-3-PROJECT_LOC/safe/weirno1/trunk/src/edu</locationURI>
+		</link>
+		<link>
+			<name>src/logback.xml</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/safe/weirno1/trunk/src/logback.xml</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>
